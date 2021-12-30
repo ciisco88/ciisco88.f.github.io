@@ -23,6 +23,10 @@ img{
 	width: 650px;
 	height: 850px;
 	margin: 10px;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 	
 }
 
